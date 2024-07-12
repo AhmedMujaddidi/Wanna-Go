@@ -14,5 +14,4 @@
 ![image](https://github.com/user-attachments/assets/7efb12f5-1bc8-4211-8b1e-44f51a6be07c)
 
 
-https://github.com/user-attachments/assets/122067d3-2066-4054-b4e6-431bd7e9e4f8
 
