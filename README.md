@@ -1,4 +1,4 @@
-# WannaGo By Ahmad Mujaddidi
+# WannaGo By Ahmed Mujaddidi
 
 ### Additional Features:
 1) Google Places API to display location name alongside latlong coordinates
