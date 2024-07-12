@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "56152277104",
+    "project_id": "android-app-419110",
+    "storage_bucket": "android-app-419110.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56152277104:android:d84fe15c8b0db72335b4b5",
+        "android_client_info": {
+          "package_name": "com.example.listr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv-dL0e-1noH70huecZ_9lBwMVX6_VsS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56152277104:android:a3d9dcb2fb95f00f35b4b5",
+        "android_client_info": {
+          "package_name": "com.example.wannago"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv-dL0e-1noH70huecZ_9lBwMVX6_VsS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
